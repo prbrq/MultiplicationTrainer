@@ -1,0 +1,15 @@
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\bin\Debug\net6.0\MultiplicationTrainer.exe
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\bin\Debug\net6.0\MultiplicationTrainer.deps.json
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\bin\Debug\net6.0\MultiplicationTrainer.runtimeconfig.json
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\bin\Debug\net6.0\MultiplicationTrainer.dll
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\bin\Debug\net6.0\MultiplicationTrainer.pdb
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.csproj.AssemblyReference.cache
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.AssemblyInfoInputs.cache
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.AssemblyInfo.cs
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.csproj.CoreCompileInputs.cache
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.dll
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\refint\MultiplicationTrainer.dll
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.pdb
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\MultiplicationTrainer.genruntimeconfig.cache
+C:\Users\prbrq\source\repos\MultiplicationTrainer\MultiplicationTrainer\obj\Debug\net6.0\ref\MultiplicationTrainer.dll
